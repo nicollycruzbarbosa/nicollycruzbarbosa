@@ -1,4 +1,4 @@
-## Hi there, I'm Nicolly👋
+## Hi, I'm Nicolly👋
 
 - 💻 I’m studying Systems Devolopment on Senai
 - 📽️ I love watching movie
