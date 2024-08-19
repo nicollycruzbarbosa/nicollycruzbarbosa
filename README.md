@@ -1,5 +1,5 @@
 ![KikisDeliveryServiceSleepGIF](https://github.com/user-attachments/assets/c3915de0-170a-4c1f-9d93-ec55074c72f5)
-## Hi, I'm Nicolly👋
+## oi, me chamo Nicolly👋
 
 - 💻 Estou estudando Desenvolvimento de Sistemas no Senai
 - 📽️ Eu amo assistir filmes e escutar músicas
