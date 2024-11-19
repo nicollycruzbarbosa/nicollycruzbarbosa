@@ -1,7 +1,8 @@
 ![KikisDeliveryServiceSleepGIF](https://github.com/user-attachments/assets/c3915de0-170a-4c1f-9d93-ec55074c72f5)
 ## Oi, me chamo Nicolly👋
 
-- 💻 Estou estudando Desenvolvimento de Sistemas no Senai
-- 📽️ Eu amo assistir filmes e escutar músicas
+- 💻 Estou estudando Desenvolvimento de Sistemas no Senai, e cursando Ensino Médio no SESI
+- 📽️ Sou cinéfila e amo escutar músicas
 - ✨ 16 anos
 - 🍳 Adoro cozinhar
+- https://camo.githubusercontent.com/
