@@ -5,4 +5,5 @@
 - 📽️ Sou cinéfila e amo escutar músicas
 - ✨ 16 anos
 - 🍳 Adoro cozinhar
+  
 [![Github stats](https://github-readme-stats.vercel.app/api?username=nicollycruzbarbosa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
