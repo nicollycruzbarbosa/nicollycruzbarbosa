@@ -7,10 +7,10 @@
 - 🍳 Adoro cozinhar
 
 # 📜 Certificações
-✅ Excel Básico
-✅ Lógica de Programação
-✅ Economia Circular
-✅ Por dentro da Segurança Cibernética
-✅ LGPD
+- ✅ Excel Básico
+- ✅ Lógica de Programação
+- ✅ LGPD
+- ✅ Por dentro da Segurança Cibernética
+- ✅ Economia Circular
   
 [![Github stats](https://github-readme-stats.vercel.app/api?username=nicollycruzbarbosa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
