@@ -5,5 +5,12 @@
 - 📽️ Sou cinéfila e amo escutar músicas
 - ✨ 16 anos
 - 🍳 Adoro cozinhar
+
+# 📜 Certificações
+✅ Excel Básico
+✅ Lógica de Programação
+✅ Economia Circular
+✅ Por dentro da Segurança Cibernética
+✅ LGPD
   
 [![Github stats](https://github-readme-stats.vercel.app/api?username=nicollycruzbarbosa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
