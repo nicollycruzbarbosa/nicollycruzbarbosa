@@ -1,6 +1,6 @@
 ## Oi, me chamo Nicolly👋
 
-- 💻 Estou estudando Desenvolvimento de Sistemas no Senai, e cursando Ensino Médio no SESI
+- 💻 Estou cursando Desenvolvimento de Sistemas no Senai, e Ensino Médio no SESI
 - 📽️ Sou cinéfila e amo escutar músicas
 - ✨ 16 anos
 - 🍳 Adoro cozinhar
