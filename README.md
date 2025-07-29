@@ -27,6 +27,5 @@ Aqui deixo registrado meus projetos e tarefas feitas no curso.
 - WordPress
 - Figma
 
-![KikisDeliveryServiceSleepGIF](https://github.com/user-attachments/assets/c3915de0-170a-4c1f-9d93-ec55074c72f5)
-  
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=nicollycruzbarbosa&show_icons=true&theme=radical)]
