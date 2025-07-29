@@ -24,4 +24,4 @@ Aqui deixo registrado meus projetos e tarefas feitas no curso.
 
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=nicollycruzbarbosa&show_icons=true&theme=radical)]
+[![Github stats](https://github-readme-stats.vercel.app/api?nicollycruzbarbosa&show_icons=true&theme=radical)]
