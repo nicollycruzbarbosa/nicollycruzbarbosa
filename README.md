@@ -33,4 +33,4 @@ Aqui deixo registrado meus projetos e tarefas feitas no curso.
 
 
 
-[![nicollycruzbarbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=nicollycruzbarbosaicons=true&theme=radical)](https://github.com/nicollycruzbarbosa/github-readme-stats)
+[![nicollycruzbarbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=nicollycruzbarbosa)](https://github.com/nicollycruzbarbosa/github-readme-stats)
