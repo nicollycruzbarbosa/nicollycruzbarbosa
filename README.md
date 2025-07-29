@@ -1,7 +1,7 @@
 ## Sobre mim:
 
 - 👋 Me chamo Nicolly
-- 💻 Estou cursando Desenvolvimento de Sistemas no Senai, e Ensino Médio no SESI
+- 📌 17 anos| Brasileira
   
 Atualmente estou no último ano de ensino médio (SESI) e cursando Desenvolvimento de Sistemas no SENAI, onde me aprofundo nas seguintes linguagens: HTML, CSS, PHP, MySQL, REACT, Java, JS, WordPress, FIGMA e etc.
 Desde pequena sempre tive grandes sonhos acadêmicos e profissionais, observo as oportunidades com grande ambição e desenvolvimento pessoal. Tenho um interesse muito antigo pela área da saúde como a Nutrição e Biomedicina, porém, também sou aberta para a área da Tecnologia da Informação, Design de Interiores e Letras.
@@ -18,6 +18,9 @@ Também gosto muito de cozinhar, escutar músicas e ver filmes.
 - ✅ Segurança no trabalho
 - ✅ Fundamentos da inteligência artificial
 - ✅ ESG
+
+# Conhecimentos
+-
 
 ![KikisDeliveryServiceSleepGIF](https://github.com/user-attachments/assets/c3915de0-170a-4c1f-9d93-ec55074c72f5)
   
