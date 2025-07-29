@@ -20,7 +20,13 @@ Também gosto muito de cozinhar, escutar músicas e ver filmes.
 - ✅ ESG
 
 # Conhecimentos
--
+- Lógica de programação
+- HTML
+- CSS
+- Banco de dados
+- Design front-end
+- WordPress
+- Figma
 
 ![KikisDeliveryServiceSleepGIF](https://github.com/user-attachments/assets/c3915de0-170a-4c1f-9d93-ec55074c72f5)
   
