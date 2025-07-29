@@ -19,13 +19,9 @@ Aqui deixo registrado meus projetos e tarefas feitas no curso.
 - ✅ ESG
 
 # Conhecimentos
-- Lógica de programação
-- HTML
-- CSS
-- Banco de dados
-- Design front-end
-- WordPress
-- Figma
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=nicollycruzbarbosa&show_icons=true&theme=radical)]
