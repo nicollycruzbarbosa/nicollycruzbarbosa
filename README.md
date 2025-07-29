@@ -1,9 +1,9 @@
 ## Sobre mim:
 
-- 👋 Me chamo Nicolly
+-👋 Me chamo Nicolly
 - 💻 Estou cursando Desenvolvimento de Sistemas no Senai, e Ensino Médio no SESI
 - 📽️ Sou cinéfila e amo escutar músicas
-- ✨ 17 anos
+- ✨ 17 anos | Brasileira
 - 🍳 Adoro cozinhar
 
 # 📜 Certificações
