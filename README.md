@@ -34,3 +34,10 @@ Aqui deixo registrado meus projetos e tarefas feitas no curso.
 
 
 [![nicollycruzbarbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=nicollycruzbarbosa)](https://github.com/nicollycruzbarbosa/github-readme-stats)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicollycruzbarbosa/nicollycruzbarbosa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicollycruzbarbosa/nicollycruzbarbosa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicollycruzbarbosa/nicollycruzbarbosa/output/github-contribution-grid-snake.svg">
+</picture>
